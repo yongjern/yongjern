@@ -17,8 +17,8 @@
 ![Yongjern's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongjern&show_icons=true&theme=radical)
 
 ## 🌟 最喜歡的項目 · Most Love Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yongjern&repo=your-repo-name&theme=radical)](https://github.com/yongjern/yong.github.io)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yongjern&repo=another-repo-name&theme=radical)](https://github.com/yongjern/yongjern)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yongjern&repo=yong.github.io&theme=radical)](https://github.com/yongjern/yong.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yongjern&repo=yongjern&theme=radical)](https://github.com/yongjern/yongjern)
 
 ## 📫 與我聯係 · Connect with Me
 - [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
